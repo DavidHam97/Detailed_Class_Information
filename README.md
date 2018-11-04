@@ -1,4 +1,4 @@
-###Detailed Class Information
+Detailed Class Information
 
 The purpose of this repository is to provide graduate admissions extra information about relevant courses I have taken. This repository will only contain one file about 4 pages for all upper division mathematics and statistics courses taken up to this point. Each course will have the following information
 
